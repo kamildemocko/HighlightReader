@@ -1,0 +1,3 @@
+default_wpm = 120
+wait_between_lines = 0.5
+wait_between_words = 0.1
